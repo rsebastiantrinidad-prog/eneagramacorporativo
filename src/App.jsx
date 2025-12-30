@@ -96,7 +96,6 @@ const Header = () => (
     <div className="flex items-center gap-3">
         {/* Simulación del logo del usuario */}
        <div className="text-2xl font-bold tracking-tight text-violet-700 font-sans">
-         Naty<span className="text-violet-500">Chiaramoni</span>
        </div>
     </div>
     <div className="text-xs tracking-[0.3em] text-slate-500 mt-1 uppercase">Coach & Eneagrama</div>
